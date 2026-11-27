@@ -126,3 +126,4 @@ MIT
 <!-- docs: updated 2026-11-22 -->
 
 <!-- docs: updated 2026-11-23 -->
+<!-- docs: updated 2026-11-27 -->
